@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: PowderBlue;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: BlueViolet;        
+}
+
+footer p {
+    background-color: LimeGreen;
+    padding: 5px;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 15px;
+    background-color: navy;
+    padding: 5px;
+}
+
+.contact {
+    padding-left: 30px;
+}
+
+.products {
+    background-color: white;
+    color: navy;
+}
